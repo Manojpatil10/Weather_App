@@ -1,0 +1,7 @@
+.bg{
+  background: url(./assets/weather_background.jpg);
+  background-size: cover;                      
+  background-repeat: no-repeat;
+  height: 100vh;
+  overflow: hidden;
+}
